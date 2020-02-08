@@ -1,0 +1,25 @@
+table {
+  font-size: 16px;
+  font-family: Verdana;
+}
+
+.titleTable {
+  color: #fff;
+  background-color: firebrick;
+}
+
+.titleItem {
+  padding: 10px;
+  border: 2px solid black;
+}
+
+.subtitle {
+  font-size: 14px;
+}
+
+.subtitleItem {
+  line-height: 2;
+  padding: 0 15px;
+  border: 1px solid black;
+  text-align: center;
+}
